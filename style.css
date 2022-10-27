@@ -1,0 +1,24 @@
+body {
+ background-color: rgba(201, 192, 182, 0.719);   
+ border: solid black 2px;
+}
+#background {
+    background-color: black;
+    color: aliceblue;
+}
+#imagem{
+    background-image: url(https://img.freepik.com/fotos-premium/fundo-do-espaco-caotico-planetas-estrelas-e-galaxias-no-espaco-sideral-mostrando-a-beleza-da-exploracao-espacial_372999-412.jpg?w=1380);
+}
+#foto {
+    border: solid rgb(255, 255, 255);
+    width: 120px;
+    height: 140px;
+}
+.itens {
+    font-style: italic;
+    font-size: large;
+}
+.seila{
+    width: 70px;
+    height: 70px;
+  }
